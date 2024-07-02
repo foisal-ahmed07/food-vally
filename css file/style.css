@@ -1,0 +1,35 @@
+h1{
+    text-align: center;
+    font-weight: bolder;
+    color: aquamarine;
+    border: 20px solid black;
+    border-radius: 30px;
+    padding: 20px;
+    margin-left: 400px;
+    margin-right: 400px;
+    margin-top: 20px;
+    margin-bottom: 20px;
+}
+
+.pra{
+    background-color: bisque;
+    border: 20px solid saddlebrown;
+    padding: 20px;
+    margin: 30px;
+    border-radius: 30px;
+
+}
+body{
+    background-color: rgb(139, 222, 15);
+}
+
+.list{
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif ;
+    background-color: burlywood;
+    padding: 30px;
+    text-transform: uppercase;
+    
+}
+header{
+    background-image: url(img/f.jpg)
+}
